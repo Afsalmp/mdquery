@@ -1,0 +1,125 @@
+@media screen and (max-width:1200px) {
+    .navbar2{
+        display: none;
+    }
+    .navbar{
+        display: none;
+    }
+
+    .homepage1{
+        position: fixed;
+        z-index: 1;
+    }
+    
+}
+
+
+@media screen and (max-width:770px) {
+
+    .k2 {
+        
+        display: block;
+    }
+    
+    .m{
+        display: none;
+    }
+    
+    .lm2{
+        display: none;
+    }
+
+    img[src="./image200/packet1.webp"]{
+        margin-top: 60%;
+        padding-left: 20%;
+    }
+
+    .seventhpage h1{
+        padding-left: 50px;
+        padding-top: 50px;
+        text-align: center;
+    }
+
+   
+    
+
+}
+
+@media screen and (max-width:100px){
+    .seventhpage {
+        height: 200px;
+        overflow: hidden;
+    }
+    
+}
+
+
+@media screen and (max-width:770px){
+
+    .dl1{
+        display: none;
+    }
+    
+    .list3{
+     margin-left: -200px;
+     margin-top: 10vw;
+    }
+    .list3 ul li{
+        font-size: 25px;
+
+    }
+
+    .hideimage{
+        display: block;
+        
+
+        
+    }
+}
+
+
+@media screen and (max-width:640px){
+
+
+    .onlyone{
+        display: block;
+    }
+
+    .onlytwo{
+        display: block;
+    }
+
+    .only3{
+        display: block;
+    }
+
+    .finalpage2{
+        display: none;
+    }
+
+    
+.finalpage1{
+    height: 550px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
